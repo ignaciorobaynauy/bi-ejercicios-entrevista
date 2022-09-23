@@ -59,4 +59,34 @@ En los últimos tiempos Viajes S.A. tuvo un importante crecimiento que se ve ref
 1. Qué tipo de tecnología/arquitectura considera debería adoptar esta empresa?
 2. Qué tipo de estrategia debería seguirse para que tanto usuarios Analistas como Managers puedan trabajar con la información?
 
+# Ejercicio Relevamiento / QA
+
+Usted ha ganado la licitación para colocar una máquina expendedora de gaseosas dentro de la compañía petrolera Piedrita SA. Para este emprendimiento, ha adquirido un nuevo modelo de máquina expendedora.
+Liste, en orden de importancia (primero el más importante), las 5 pruebas que usted realizaría antes de dejar la máquina instalada y en funcionamiento. Justifique el orden.
+
+# Ejercicio conocimiento de QlikView
+Explique con sus propias palabras, en lenguaje coloquial, el funcionamiento de las siguientes cláusulas o funciones de scripting QV:
+- AUTOGENERATE() + RecNo()
+- PEEK
+- EXISTS y NOT EXISTS (con 1 y 2 campos) / lectura optimizada
+- INTERVALMATCH
+- Distintas formas de uso de $(=)
+
+# Preguntas Técnicas Generales
+Explique con sus propias palabras, en lenguaje coloquial, situaciones donde aplique usar distintas estrategias de modelado
+
+1. Modelo Estrella
+2. Link tables - relacional
+3. Modelado no relacional
+4. ¿Qué ventajas nos da la nube?
+5. ¿Qué diferencias hay entre una DB OLTP vs OLAP?
+6. Diferencias bases de datos columnares vs bases de datos en filas
+   - ¿qué ventajas tiene cada una?
+   - ¿cómo se modelan los datos en cada una de estas db?
+   - ¿normalizado vs desnormalizado de tablas?
+7. ¿Para qué sirve un archivo parquet?
+8. ¿Cómo migrarías una base de datos a otro servidor, teniendo en cuenta que la base fuente no se puede apagar?
+9. Haz el diseño de Netflix/Spotify (ABM tablas SQL, Sesiones Redis, videos/música buckets, metadata música nosql, etc)
+
+
 
