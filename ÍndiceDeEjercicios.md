@@ -3,7 +3,7 @@
 
 ## Ejercicios de diseño de algoritmo
 
-##### [Distribución de Cajas] (https://github.com/ignaciorobaynauy/bi-ejercicios-entrevista/blob/main/ejercicios/Ej-DistribucionDeCajas.md) 
+##### [Distribución de Cajas]([url](https://github.com/ignaciorobaynauy/bi-ejercicios-entrevista/blob/main/ejercicios/Ej-DistribucionDeCajas.md)) 
 ##### String incluído
 
 
