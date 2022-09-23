@@ -6,7 +6,7 @@ La compañía Viajes S.A. necesita contar con métricas que le permitan entender
 
 La estructura de tracking es la siguiente:
 
-![SQL-2](img/SQL-2.png)
+![SQL-2](../img/SQL-2.png)
 
 **Nota:** *La tabla Transaction está poblada con información del sistema transaccional de la empresa, como las tablas provienen de sistemas diferentes pueden existir transacciones que estén registradas en el sistema pero NO trackeadas.*
 
