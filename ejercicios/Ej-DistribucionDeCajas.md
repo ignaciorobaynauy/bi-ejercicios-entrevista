@@ -8,4 +8,4 @@ Escriba un algoritmo que dada la cantidad de cajas en cada columna, indique cuá
 Y además indicar el número (o índice) de columna en el cual se deben agregar o sacar dichas cajas (*1).
 Para devolver esta información, utilizar la forma de lista de par ordenado (o tupla) como (Número de Columna y Cantidad)
 
-![DistribucionDeCajas](img/DistribucionDeCajas.png)
+![DistribucionDeCajas](../img/DistribucionDeCajas.png)
