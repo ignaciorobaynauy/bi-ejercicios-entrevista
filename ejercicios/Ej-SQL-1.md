@@ -13,7 +13,7 @@ Además, se registran para cada una de ellas los intentos de cobro, que pueden t
 2. Confeccionar una consulta SQL para el reporte de cobros, que liste “Monto cobrado OK, por país, de productos emitidos”
 3. Además, la compañía ofrece cupones de descuento nominales, y se registran en un sistema cuyo modelo de datos es el siguiente:
 
-![SQL-1](img/SQL-1.png)
+![SQL-1](../img/SQL-1.png)
 
 Confeccionar una consulta SQL que liste los Clientes (lista de ApellidoNombre) que hayan utilizado 5 Ó 6 Cupones.
 
